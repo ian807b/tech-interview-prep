@@ -14,7 +14,9 @@ These notes are primarily based on the book ["신입 개발자 전공 지식 & �
 └── 💻 CS/
     ├── 🖥 Operating Systems/
     ├── ⚡ Processes/
+    ├── ⚡ CPU Scheduling/
     └── 🔄 Recursion/
+
 ```
 
 ## 📖 Contents Overview
