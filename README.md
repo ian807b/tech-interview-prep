@@ -12,9 +12,10 @@ These notes are primarily based on the book ["신입 개발자 전공 지식 & �
 ```
 📁 Root
 └── 💻 CS/
+    ├── ⚡ CPU Scheduling/
+    ├── 🧠 Memory/
     ├── 🖥 Operating Systems/
     ├── ⚡ Processes/
-    ├── ⚡ CPU Scheduling/
     └── 🔄 Recursion/
 
 ```
@@ -51,7 +52,7 @@ Main source: ["신입 개발자 전공 지식 & 기술 면접 완전 정복하�
 
 🌟 **Happy Learning!** 🌟
 
-Last Updated: December 2024
+Last Updated: January 2025
 
 📧 Contact: ian807b@gmail.com
 </div>
