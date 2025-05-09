@@ -1,6 +1,5 @@
 # 📚 Computer Science Interview Preparation Notes
-> 💡 A curated collection of CS interview preparation materials
-
+> 💡 A curated collection of CS interview preparation materials  
 > 🌩️ And little bit of notes for AWS Solutions Architect Certification exam
 
 [![CS Topics](https://img.shields.io/badge/CS-Topics-blue.svg)](https://shields.io/)
